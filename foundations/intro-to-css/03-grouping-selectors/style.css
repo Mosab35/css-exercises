@@ -1,0 +1,11 @@
+.Click.No {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+.Click {
+    color: white;
+    background-color: black;
+}
+.No {
+    background-color: yellow;
+}
